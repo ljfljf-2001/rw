@@ -9,6 +9,7 @@ public class RwApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RwApplication.class, args);
 		System.out.println("qwe");
+		System.out.println("asd");
 	}
 
 }
